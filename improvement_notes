@@ -1,0 +1,21 @@
+- use prefix on db
+- use db engine
+- language library
+- HMVC separate config & language
+- remote termination
+- smart auto create
+- change / to DIRECTORY_SEPARATOR
+- hide error message option
+- multipple where value
+
+FEATURE
+- HMVC modular programming ready
+- autoload peripheral by file name
+- secure file by url secure
+- secure form by form hashing name
+- autocreate
+- config from array
+- replace encryption with new encryption methode for file
+- adding default function on controller
+- maintenance on loading function make it simple
+- 404 error view
